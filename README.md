@@ -12,7 +12,10 @@ Ter um serviço [MongoDB](https://www.mongodb.com/) configurado e pronto para re
 
 ```
 git clone https://github.com/felipesvianna/mern-tasks
-npm install
+
+cd api && npm install
+
+cd frontend && npm install
 ```
 
 ## Utilização
