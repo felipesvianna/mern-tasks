@@ -4,6 +4,11 @@
 
 A aplicaçao contém autenticação de usuário, DotEnv para gerenciar variáveis de ambiente e Code Linting para VS Code com Prettier, utilizando Airbnb JavaScript Style e ESLint.
 
+![Screenshot](docs/screen1.png)
+![Screenshot](docs/screen2.png)
+![Screenshot](docs/screen3.png)
+![Screenshot](docs/screen4.png)
+
 ## Pré-requisitos
 
 Ter um serviço [MongoDB](https://www.mongodb.com/) configurado e pronto para receber os dados. Os esquemas dos modelos estão no diretório api/models.
