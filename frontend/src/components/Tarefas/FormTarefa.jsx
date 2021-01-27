@@ -92,6 +92,7 @@ export default function FormTarefa() {
             type="submit"
             value={tarefaSelecionada ? 'Editar tarefa' : 'Adicionar Tarefa'}
             className="btn btn-primario btn-submit btn-block"
+            className={tarefaSelecionada ? "btn btn-editar btn-block" : "btn btn-primario btn-submit btn-block"}
           />
         </div>
       </form>

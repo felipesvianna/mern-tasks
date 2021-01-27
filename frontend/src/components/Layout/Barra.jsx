@@ -20,7 +20,7 @@ export default function Barra() {
       <nav className="nav-principal">
         <button
           type="button"
-          className="btn btn-blank cerrar-sesion"
+          className="btn cerrar-sesion"
           onClick={() => onClickEncerrarSessao()}
         >
           Encerrar Sessão
